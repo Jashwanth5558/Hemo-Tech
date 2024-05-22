@@ -33,6 +33,25 @@ Database: MYSQL
 Operating systems: Windows 10 and 11 (Intel/AMD 64-bit) 
 Linux (Intel/AMD 64-bit, kernel 3.10.0 or higher, g-libc 2.17 
 
+#Methodology
+
+![image](https://github.com/Jashwanth5558/Hemo-Tech/assets/100793290/d587a2be-e377-4c44-9a10-495443e2cb67)
+
+
+#screenshots
+#Base Screen
+
 ![image](https://github.com/Jashwanth5558/Hemo-Tech/assets/100793290/0d8d00e3-b94c-4ae1-b7c7-56ef15280be6)
 
+#Home Screen
+![image](https://github.com/Jashwanth5558/Hemo-Tech/assets/100793290/67f01f6d-e442-4fc3-90d5-a2239f162ecf)
+
+#Login Screen
+![image](https://github.com/Jashwanth5558/Hemo-Tech/assets/100793290/94d873e3-a6b2-4765-8f0d-795c150f919a)
+
+#Detection Screen 
+![image](https://github.com/Jashwanth5558/Hemo-Tech/assets/100793290/4ed9b40e-c253-4b23-9481-14e877eae845)
+
+#Accuracy Plot
+![image](https://github.com/Jashwanth5558/Hemo-Tech/assets/100793290/8addf34d-2a5a-4a7d-a9f9-332962d41334)
 
