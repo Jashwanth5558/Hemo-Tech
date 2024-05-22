@@ -58,3 +58,8 @@ A notable development in the realm of medical diagnostics is the suggested appro
 
 ![IRJET- Jashwanth Sai Ganta_certificate](https://github.com/Jashwanth5558/Hemo-Tech/assets/100793290/2323624f-372d-4dbe-8152-22a51bf00da0)
 
+## CONTRIBUTIONS
+Contributions to this project are welcome! If you find any bugs or have any suggestions for improvements, please feel free to create an issue or pull request.
+
+## COPY RIGHT FORM
+This project is licensed under the IRJET Copyright form 2024.
