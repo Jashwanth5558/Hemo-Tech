@@ -53,7 +53,7 @@ A notable development in the realm of medical diagnostics is the suggested appro
 
 
 
-PUBLICATIONS
+# PUBLICATIONS- IRJET 
 
 
 ![IRJET- Jashwanth Sai Ganta_certificate](https://github.com/Jashwanth5558/Hemo-Tech/assets/100793290/2323624f-372d-4dbe-8152-22a51bf00da0)
